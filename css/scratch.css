@@ -1,0 +1,41 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+}
+
+nav {
+  background-color: #222;
+  padding: 15px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.box {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+/* Style definitions */
+h1 {
+  color: #003366;
+}
+
+h2 {
+  color: #444;
+}
+
+p {
+  color: #333;
+}
